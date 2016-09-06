@@ -4,7 +4,7 @@
   * @author  MCD Application Team
   * @version V1.2.4
   * @date    06-May-2016
-  * @brief   Main program body
+  * @brief   Main program body - 
   *
   * @note    modified by ARM
   *          The modifications allow to use this file as User Code Template
